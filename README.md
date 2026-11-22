@@ -39,13 +39,13 @@ root@developer:~$ _
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  Name        : Dave                                         │
+│  Name        : Dave                                          │
 │  Role        : Software Engineer / Web Developer             │
 │  Focus       : Web Development · Backend · Software          │
-│  Environment : Windows · Linux · Debian · Ubuntu              │
+│  Environment : Windows · Linux · Debian · Ubuntu             │
 │                                                              │
 │  Interests   : Programming · UI/UX · System Design           │
-│                Open Source · Automation · Digital Products  │
+│                Open Source · Automation · Digital Products   │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
